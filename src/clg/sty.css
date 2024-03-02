@@ -1,0 +1,11 @@
+/*.nav1{
+    padding: 3px;
+    background-color: rgb(10, 10, 59);
+}*/
+ul li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    
+    background-color: blue;
+}
