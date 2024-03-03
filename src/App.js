@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.css';
 
-import  Amt from './add/importf';
+import  Amt from './component/FileUpload';
 
 function App() {
   return (
