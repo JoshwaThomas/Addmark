@@ -1,11 +1,13 @@
 import React from 'react';
-import './index.css';
 
 import  Amt from './component/FileUpload';
 
-function App() {
+const App= ()=>{
   return (
+    <div>
+      <h1>CSV FILE UPLOAD</h1>
     < Amt />
+    </div>
   );
 }
 
